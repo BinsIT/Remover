@@ -59,7 +59,7 @@ unlock files and folders
 
 🧩 Compatible with all modern Windows x64 versions.
 
-🧭 Simple GUI + optional CLI mode.
+🧭 Simple GUI 
 
 🔄 Batch deletion support – remove multiple files at once.
 
