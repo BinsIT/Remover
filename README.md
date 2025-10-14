@@ -78,8 +78,8 @@ Any scenario where standard file deletion fails
 
 
 
-💖 Wsparcie projektu
+💖 Support the Project
 
-Jeśli chcesz wesprzeć rozwój RemoverPRO, możesz to zrobić wyłącznie przez:
+If you’d like to support the development of RemoverPRO, you can do so only through:
 
 👉 buymeacoffee.com/bartechpro
