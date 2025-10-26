@@ -1,4 +1,4 @@
-RemoverPRO is an advanced tool for removing locked files and folders on Windows — no additional drivers or system components required. This unlocker allows users to unlock files, unlock folders, delete, or rename any locked or protected system file—even the most secured ones on Windows 11. 
+Remover is an advanced tool for removing locked files and folders on Windows — no additional drivers or system components required. This unlocker allows users to unlock files, unlock folders, delete, or rename any locked or protected system file—even the most secured ones on Windows 11. 
 
 It runs completely independent of bulk drivers or kernel-level hooks.
 
