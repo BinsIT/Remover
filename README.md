@@ -18,9 +18,10 @@ Fast, secure, and reliable — built for IT professionals and power users.
 ⚡ Immediate action — zero setup
 
 
+
+
 ☕ Support
 
-Jedyną oficjalną formą wsparcia projektu Remover PRO jest:
 👉 buymeacoffee.com/bartechpro
 
 
