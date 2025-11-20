@@ -20,7 +20,7 @@ Key features:
 
 
 
-☕ Support
+ Support
 
 👉 buymeacoffee.com/bartechpro
 
