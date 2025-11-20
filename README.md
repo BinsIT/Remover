@@ -1,3 +1,12 @@
+<p align="left">
+  <img 
+    src="https://raw.githubusercontent.com/BinsIT/Remover/main/remover_high.png" 
+    width="400" 
+    alt="Remover Logo"
+  />
+</p>
+
+
 Remover — Professional tool for removing viruses, locked files, and system-protected items held by processes or Windows services.
 Fast, secure, and reliable — built for IT professionals and power users.
 
