@@ -1,7 +1,7 @@
 Remover — Professional tool for removing viruses, locked files, and system-protected items held by processes or Windows services.
 Fast, secure, and reliable — built for IT professionals and power users.
 
-🔧 Key features:
+Key features:
 
 🦠 Removes infected and locked files
 
@@ -73,6 +73,11 @@ unlock files Windows 11
 manage locked files
 
 unlock files and folders
+
+
+
+
+If the project reaches 100 ⭐ on GitHub, i will begin active development of new features!
 
 
 
