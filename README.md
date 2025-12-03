@@ -16,7 +16,6 @@ Remover is a **fast, secure, and reliable tool** for removing viruses, locked fi
 
 - **Remove infected and locked files** efficiently.
 - **Handles files used by processes or system services**.
-- **No drivers required** — operates natively without system modifications.
 - **Admin mode and Safe Mode compatible**.
 - **Safe for file system integrity**.
 - **Fully portable** — no installation needed.
@@ -34,7 +33,6 @@ You can support the project here:
 ## Technical Advantages
 
 - Remove locked files and folders, even those used by processes, services, or the system.
-- Operates **100% natively**, without patching or injecting system components.
 - EVERY file on Windows can be removed with Remover.
 - Full administrator mode support for advanced users.
 - **Lightweight and fast**, minimal CPU/memory usage.
